@@ -2,7 +2,7 @@
   "name": "friendleaf20",
   "version": "1.0.0",
   "description": "This example is so cool.",
-  "main": "match_now_final.js",
+  "main": "match_now_final.js", "match_later_final.js"
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
