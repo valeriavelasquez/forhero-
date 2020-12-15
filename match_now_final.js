@@ -143,5 +143,5 @@ db.collection('toMatch').insertOne(data,function(err, collection){
     // });
 })
 
-}).listen(3000) 
+}).listen(process.env.PORT || 3000);
 console.log('Running on port: 3000');
